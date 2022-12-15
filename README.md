@@ -1,3 +1,3 @@
 # Hello!
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmk-kk)](https://github.com/anuraghazra/github-readme-stats)
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmk-kk&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
